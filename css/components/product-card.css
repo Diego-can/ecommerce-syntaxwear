@@ -7,8 +7,8 @@
 }
 
 .category-card {
-    width: 285px;
-    height: 450px;
+    width: 267px;
+    height: 420px;
     border-radius: 15px;
     position: relative;
     overflow: hidden;
@@ -27,7 +27,7 @@
     top: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    color: #fff;
+    color: #ededed;
     z-index: 2;
 }
 
