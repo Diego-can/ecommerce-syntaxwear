@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 20px;
+    padding: 0.285rem 1.25rem;
     background-color: #ffffff;
 }
 
@@ -28,6 +28,7 @@
 .nav-right a {
     font-weight: 400;
     font-size: 1.25rem;
+    color: #333;
 }
 
 .nav-center a:hover,
