@@ -1,10 +1,17 @@
 body {
     font-family: var(--fonte-principal);
     color: #333;
-    padding: 2.5rem 2.5rem 0 2.5rem;
+}
+
+header,
+section {
     max-width: 1360px;
     margin: 0 auto;
+    padding: 2.5rem 2.5rem 0 2.5rem;
+
+
 }
+
 
 .btn {
     font-size: 1.25rem;
@@ -34,3 +41,4 @@ body {
     background-color: #fff;
     color: #6329a2;
 }
+
